@@ -1,0 +1,2 @@
+![Screenshot 2024-01-21 233540](https://github.com/UncleKweks/Learnable-Task/assets/113212824/a504bda5-2451-4aab-b65f-78fc8fbaef85)
+I was only given two tasks. To write an article on the differnces betwwen let,var and const. At the point of submission, I saw another task stating I should write an article on introduction to javascript. There isn't enough time to brainstorm for an article. I hope it would not be an issue? Thank you.
